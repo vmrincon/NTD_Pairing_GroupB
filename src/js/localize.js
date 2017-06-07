@@ -33,7 +33,7 @@ var localizer = function (){
                     fourthNavBtn: "Järgmine päev",
                     fifthNavBtn: "Järgmine nädal",
                     competition: "Konkurents",
-                    kickOffDate: "Kick Off",
+                    kickOffDate: "Algusaeg",
                     home: "Kodu",
                     score: "Skoor",
                     away: "Kodu",
@@ -65,8 +65,8 @@ var localizer = function (){
                     fixtures: "fixtures",
                     all: "All",
                     countries: "Countries",
-                    england: "england",
-                    germany: "germany",
+                    england: "England",
+                    germany: "Germany",
                     estonia: "Estonia",
                     filter: "Filter"
             }
@@ -119,7 +119,7 @@ var localizer = function (){
         updateCountryNames(localizer);
         updateDateSelectNav(localizer);
         updateHeaders(localizer);
-        //updateNoOfFixtures(localizer);
+        updateNoOfFixtures(localizer);
 
     };
 
