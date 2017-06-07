@@ -65,8 +65,8 @@ var localizer = function (){
                     fixtures: "fixtures",
                     all: "All",
                     countries: "Countries",
-                    england: "england",
-                    germany: "germany",
+                    england: "England",
+                    germany: "Germany",
                     estonia: "Estonia",
                     filter: "Filter"
             }
