@@ -33,7 +33,7 @@ var localizer = function (){
                     fourthNavBtn: "Järgmine päev",
                     fifthNavBtn: "Järgmine nädal",
                     competition: "Konkurents",
-                    kickOffDate: "Kick Off",
+                    kickOffDate: "Algusaeg",
                     home: "Kodu",
                     score: "Skoor",
                     away: "Kodu",
