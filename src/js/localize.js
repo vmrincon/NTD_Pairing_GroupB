@@ -119,7 +119,7 @@ var localizer = function (){
         updateCountryNames(localizer);
         updateDateSelectNav(localizer);
         updateHeaders(localizer);
-        //updateNoOfFixtures(localizer);
+        updateNoOfFixtures(localizer);
 
     };
 
